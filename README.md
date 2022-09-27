@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anikethsahu
-- 👀 I’m a beginner in Computer Science and interested in c/c++/python/html/css/javscript/bootstrap/sql...
-- 🌱 I’m a fresher and completed my B.tech graduation in July-2021
+- 👀 I’m a beginner in Computer Science and interested in Full Stack Development.
+- 🌱 I have completed my Post Graduation and worked on Technologies like React, NodeJs, SpringBoot, Hibernate, MySql
 - 💞️ I’m looking to collaborate on web development
 - 📫 Contact me at @sahuaniketh90@gmail.com
 
